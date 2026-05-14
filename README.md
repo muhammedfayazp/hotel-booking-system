@@ -5,7 +5,7 @@ A Laravel 13 full-stack mini booking system built as a technical assessment for 
 ---
 
 ## 👨‍💻 Developer
-**Mohammed Fayaz**
+**Muhammed Fayaz**
 
 ---
 
@@ -227,5 +227,4 @@ The **Login** request automatically saves the token — all other requests work 
 
 ## 📞 Contact
 
-Built for **SkyUniTech** technical assessment.
-**Fadi Shanti** — fadi@Skyuni.tech
+Built as part of a technical assessment.
