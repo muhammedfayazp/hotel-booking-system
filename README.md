@@ -1,6 +1,6 @@
 # 🏨 Hotel Inventory & Search System
 
-A Laravel 13 full-stack mini booking system built as a technical assessment for **SkyUniTech**.
+A Laravel 13 full-stack mini booking system built as a technical assessment.
 
 ---
 
